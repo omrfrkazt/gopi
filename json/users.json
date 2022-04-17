@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "name": "Frodo",
+        "surname": "Baggins",
+        "isActive": true
+    },
+    {
+        "id": 2,
+        "name": "Samwise",
+        "surname": "Gamgee",
+        "isActive": true
+    },
+    {
+        "id": 3,
+        "name": "Meriadoc",
+        "surname": "Brandybuck",
+        "isActive": true
+    },
+    {
+        "id": 4,
+        "name": "Peregrin",
+        "surname": "Took",
+        "isActive": true
+    },
+    {
+        "id": 5,
+        "name": "Aragorn",
+        "surname": "Elessar",
+        "isActive": true
+    },
+    {
+        "id": 6,
+        "name": "Legolas",
+        "surname": "Greenleaf",
+        "isActive": true
+    },
+    {
+        "id": 7,
+        "name": "Gimli",
+        "surname": "Dwarf",
+        "isActive": true
+    },
+    {
+        "id": 8,
+        "name": "Boromir",
+        "surname": "Captain of the White Tower",
+        "isActive": true
+    },
+    {
+        "id": 9,
+        "name": "Gandalf",
+        "surname": "Grey",
+        "isActive": true
+    },
+    {
+        "id": 10,
+        "name": "Gollum",
+        "surname": "Smeagol",
+        "isActive": true
+    },
+    {
+        "id": 11,
+        "name": "Saruman",
+        "surname": "White",
+        "isActive": true
+    },
+    {
+        "id": 12,
+        "name": "Sauron",
+        "surname": "The Dark Lord",
+        "isActive": true
+    }
+]
